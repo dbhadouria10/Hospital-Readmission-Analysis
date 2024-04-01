@@ -68,7 +68,7 @@ This dataset contains information on patients who have been hospitalized for dia
 
 
 ## Results
-[](images/Screenshot%202023-06-11%20at%2023.17.41.jpg)
+![](images/Screenshot%202023-06-11%20at%2023.17.41.jpg)
 
 
 ## Limitations
