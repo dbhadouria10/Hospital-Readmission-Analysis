@@ -69,6 +69,8 @@ This dataset contains information on patients who have been hospitalized for dia
 
 ## Results
 ![](images/Screenshot%202023-06-11%20at%2023.17.41.jpg)
+![Screenshot 2023-06-11 at 23 17 41](https://github.com/dbhadouria10/Hospital-Readmission-Analysis/assets/136034965/ab5d8d24-2c26-4ddf-850a-84a5e2c0c88e)
+
 
 
 ## Limitations
